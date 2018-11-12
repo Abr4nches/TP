@@ -1,2 +1,2 @@
 # TP
-TUX application version control
+Controle de versão da aplicação do TUX 2D
